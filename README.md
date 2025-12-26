@@ -15,5 +15,7 @@ on the same network can access it.
 - Local shared spreadsheet workflows
 
 ### Usage
+```bash
 chmod +x start-grist-lan.command
 ./start-grist-lan.command
+```
